@@ -43,11 +43,7 @@ namespace ClassLibraryFinal
 
         public double ShippingCost()
         {
-            return 0;
-        }
-
-        
-
-        
+            return ShippingDistance / NumRefuels;
+        } 
     }
 }

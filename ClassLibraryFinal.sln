@@ -12,6 +12,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeTest", "FakeTest\FakeTest.csproj", "{1E0E5BA1-450E-4F9F-BCE8-D59E91515A9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryFinalWPF", "ClassLibraryFinalWPF\ClassLibraryFinalWPF.csproj", "{80E0B0AB-7F8F-4024-89BA-A28DE14FAC1C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B651D40F-BE0D-42E6-B3E8-4C94F1B0E07F} = {B651D40F-BE0D-42E6-B3E8-4C94F1B0E07F}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

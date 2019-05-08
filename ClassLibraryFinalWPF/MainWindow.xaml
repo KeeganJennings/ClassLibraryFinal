@@ -9,8 +9,7 @@
     <Grid>
         <Label x:Name="TitleLbl" Content="Shipping Delivery Service" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="775" HorizontalContentAlignment="Center"/>
         <ComboBox x:Name="ServiceTypecmbb" HorizontalAlignment="Left" Margin="510,110,0,0" VerticalAlignment="Top" Width="275" Height="25">
-            <ComboBoxItem Content="Delivery Service">
-            </ComboBoxItem>
+            <ComboBoxItem Content="Delivery Service"></ComboBoxItem>
             <ComboBoxItem Content="Shipping Service"></ComboBoxItem>
             <ComboBoxItem Content="Shipping Vehicle"></ComboBoxItem>
         </ComboBox>

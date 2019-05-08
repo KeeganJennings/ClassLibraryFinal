@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnitTestFinal.NinjectModules;
 using ClassLibraryFinal.NinjectModules;
+using Moq;
 
 namespace UnitTestFinal
 {
